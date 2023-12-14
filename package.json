@@ -1,7 +1,7 @@
 {
-  "name": "my-qwik-library-name",
-  "version": "0.0.1",
-  "description": "Create a reusable Qwik component library",
+  "name": "qwik-excel-renderer",
+  "version": "0.1.0",
+  "description": "A Qwik library to render and display excel sheets on webpage",
   "main": "./lib/index.qwik.mjs",
   "qwik": "./lib/index.qwik.mjs",
   "types": "./lib-types/index.d.ts",
