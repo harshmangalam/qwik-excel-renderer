@@ -22,7 +22,7 @@ bun add qwik-excel-renderer
 
 ```jsx
 import {
-  NoSerialize,
+  type NoSerialize,
   component$,
   noSerialize,
   useSignal,
