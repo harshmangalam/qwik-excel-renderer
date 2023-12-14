@@ -7,8 +7,8 @@ export type Column = {
 };
 type HTMLTableProps = QwikIntrinsicElements["table"];
 export type TableProps = HTMLTableProps & {
-  withZeroColumn?: any;
-  withoutRowNum?: any;
+  withZeroColumn?: boolean;
+  withoutRowNum?: boolean;
   data: XLSXData;
   renderRowNum?: any;
 };
